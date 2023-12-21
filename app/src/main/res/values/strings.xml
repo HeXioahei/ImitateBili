@@ -1,0 +1,92 @@
+<resources>
+    <string name="app_name">ImitateBili</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="ao_name">三太子敖丙</string>
+    <string name="yu_name">程序员鱼皮</string>
+    <string name="xie_name">屑老板不破产</string>
+    <string name="kuang_name">遇见狂神说</string>
+    <string name="suan_name">不加醋的氨基酸</string>
+    <string name="bi_name">毕导</string>
+    <string name="reng_name">扔物线</string>
+    <string name="zhan_name">Zhan I</string>
+    <string name="you_name">呦呦呦</string>
+
+    <string name="ao_dynamicInfo">敖丙的动态</string>
+    <string name="yu_dynamicInfo">鱼皮的动态</string>
+    <string name="xie_dynamicInfo">屑老板的动态</string>
+    <string name="kuang_dynamicInfo">狂神的动态</string>
+    <string name="suan_dynamicInfo">小酸的动态</string>
+    <string name="bi_dynamicInfo">毕导的动态</string>
+    <string name="reng_dynamicInfo">扔物线的动态</string>
+    <string name="zhan_dynamicInfo">zhan的动态</string>
+    <string name="you_dynamicInfo">呦呦呦的动态</string>
+
+    <string name="ao_detailFan">粉丝数：24.3万</string>
+    <string name="yu_detailFan">粉丝数：63.1万</string>
+    <string name="xie_detailFan">粉丝数：4万</string>
+    <string name="kuang_detailFan">粉丝数：73.7万</string>
+    <string name="suan_detailFan">粉丝数：15.7万</string>
+    <string name="bi_detailFan">粉丝数：523万</string>
+    <string name="reng_detailFan">粉丝数：8.6万</string>
+    <string name="zhan_detailFan">粉丝数：144.7万</string>
+    <string name="you_detailFan">粉丝数：0.0001万</string>
+
+    <string name="ao_detailInfo">
+        软件工程师|互联网运营\n
+        微博|公众号：敖丙\n
+        IP属地：浙江
+    </string>
+    <string name="yu_detailInfo">
+        全栈开发小哥\n
+        用编程做点有趣的事\n
+        免费编程学习资源：http://codefather.cn\n
+        IP属地：上海
+    </string>
+    <string name="xie_detailInfo">
+        能苟一天是一天，努力让自己不破产！\n
+        我司官网：https://yuyuanweb.com\n
+        IP属地：上海
+    </string>
+    <string name="kuang_detailInfo">
+        编程是爱好\n
+        恭喜你发现宝藏男孩一枚~\n
+        希望你们关注我是因为喜欢我\n
+        微信：kuangshenya\n
+        没事勿扰，不接商单\n
+        IP属地：广东
+    </string>
+    <string name="suan_detailInfo">
+        十级反骨产品经理\n
+        IP属地：山西
+    </string>
+    <string name="bi_detailInfo">
+        观察并记录科学的Amazing！\n
+        大号：毕的二阶导\n
+        b站商务联系：s1012295607\n
+        IP属地：北京
+    </string>
+    <string name="reng_detailInfo">
+        中国首位Google官方认证Android和Kotlin双领域开发专家（GDE）\n
+        同名公众号：扔物线\n
+        IP属地：河南\n
+        学历：郑州大学
+    </string>
+    <string name="zhan_detailInfo">
+        啊哈哈哈哈哈哈哈哈\n
+        商务：zhan83146\n
+        IP属地：北京\n
+        学历：中国科学院大学
+    </string>
+    <string name="you_detailInfo">
+        我是一只\n
+        菜菜菜菜\n
+        鸟\n
+        IP属地：福州\n
+        学历：铜盘高中
+    </string>
+
+    <string name="btn_text">取消关注</string>
+
+</resources>
