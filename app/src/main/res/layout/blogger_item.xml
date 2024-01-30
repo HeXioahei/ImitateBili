@@ -1,8 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
+
+<!--一个Adapter对应一个布局，所以分别创建了一个 blogger_dynamic 和 blogger_item -->
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
     android:orientation="vertical"
     android:layout_width="160dp"
-    android:layout_height="wrap_content">
+    android:layout_height="wrap_content"
+    tools:context=".activity.MainActivity">
 
     <ImageView
         android:id="@+id/bloggerHeadImage"
